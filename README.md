@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rafibinwores@gmail.com**
 
-- 📄 Know about my experiences [link.com](link.com)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EVbpSOwvoeHRwiI4Go5ialVN3Sbcwdv6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
