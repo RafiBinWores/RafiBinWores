@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafibinwores&label=Profile%20views&color=0e75b6&style=flat" alt="rafibinwores" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafibinwores" alt="rafibinwores" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [demo.com](demo.com)
