@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rafibinwores@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EVbpSOwvoeHRwiI4Go5ialVN3Sbcwdv6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PuwxKWgqka3FyPxd8yrB4HTr2DvZh41N/view?usp=sharing)
 
 - 🎮 Gamer | 🎵 Music Lover | 🌐 Always learning
 
